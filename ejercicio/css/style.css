@@ -1,3 +1,20 @@
-body{
-	
+
+
+.jumbotron{
+	background-image: url(../images/bg2.jpg);
+    background-size: cover;
+    margin-top: 50px;
+}
+.jumbotron > .container{
+	color: #fff;
+	text-align: center;
+}
+.navbar-brand > img{
+    max-width: 30px;
+    margin-top: -5px;
+}
+.card-img-top{
+	height: 225px; 
+	width: 100%; 
+	display: block;
 }
